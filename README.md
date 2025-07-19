@@ -20,6 +20,7 @@ Dự án này cho phép **trích xuất liên kết video** từ một trang dan
 
 ```bash
 git clone https://github.com/quangcaa/vtvgo-crawler.git
+cd vtvgo-crawler
 ```
 
 ### 2. Tạo môi trường ảo
